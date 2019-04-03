@@ -8,8 +8,8 @@
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background-color: #777777;
-    background: url(../images/pitch.jpg);   /* swirl_pattern.png is also in the images folder as an option */
+    background-color: black;
+    background: url(../images/swirl_pattern.png);
   }
 
   #header-section {
